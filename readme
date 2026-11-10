@@ -1,0 +1,30 @@
+
+ Calculadora Extendida - Java Swing
+
+Descripción
+Aplicación de escritorio desarrollada en Java Swing
+para realizar operaciones matemáticas y conversiones
+de temperatura.
+
+ Funcionalidades
+- Suma, resta, multiplicación y división.
+- Validación de división entre cero.
+- Fahrenheit a Celsius.
+- Celsius a Fahrenheit.
+- Cálculo de raíz cuadrada.
+- Cálculo de exponentes.
+
+ Tecnologías
+- Java JDK
+- Java Swing
+- NetBeans
+
+ Ejecución
+1. Descargar el repositorio.
+2. Abrir el proyecto en NetBeans.
+3. Ejecutar Main.java.
+
+Autor
+Nombre: Rayan Pimentel
+Matrícula: 2026-0116
+
